@@ -1,0 +1,12 @@
+nav{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+    text-align: center;
+}
+ul li{ text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+}
+li img {
+width: 400px;
+
+}
